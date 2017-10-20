@@ -142,7 +142,7 @@ técnicas ou ciências.
 	&nbsp;&nbsp;&nbsp; $ git branch NOME_BRANCH<br>
 	&nbsp;&nbsp;&nbsp; $ git checkout NOME_BRANCH<br>
 	&nbsp;&nbsp;&nbsp; * criar/modificar **e** versionar *<br>
-	&nbsp;&nbsp;&nbsp; $ checkout master<br>
+	&nbsp;&nbsp;&nbsp; $ git checkout master<br>
 	&nbsp;&nbsp;&nbsp; $ git merge NOME_BRANCH<br>
 
 </p>
