@@ -1,2 +1,2 @@
-# horaprog17
-HoraProg17's Git Workshop
+# mluis's workshops
+HoraProg17's - Git/Github Workshop
